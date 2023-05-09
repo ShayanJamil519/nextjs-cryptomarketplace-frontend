@@ -37,19 +37,19 @@ export default function Footer() {
   return (
     <FooterEl>
       <Socials>
-        <a hef="#">
+        <a href="#">
           <BsInstagram />
         </a>
-        <a hef="#">
+        <a href="#">
           <GrTwitter />
         </a>
-        <a hef="#">
+        <a href="#">
           <BsMedium />
         </a>
-        <a hef="#">
+        <a href="#">
           <BsDiscord />
         </a>
-        <a hef="#">
+        <a href="#">
           <BsTelegram />
         </a>
       </Socials>
