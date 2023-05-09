@@ -144,6 +144,7 @@ export default function Profile({ username = "newk3d" }) {
           //   width="1440"
           //   height="480"
           layout="fill"
+    alt="Image"
         />
       </Cover>
       <Content>
@@ -154,6 +155,7 @@ export default function Profile({ username = "newk3d" }) {
               layout="fill"
               //   width="150"
               //   height="150"
+    alt="Image"
             />
           </Avatar>
           <Name>newk3d</Name>
