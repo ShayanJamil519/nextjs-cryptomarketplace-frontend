@@ -162,6 +162,7 @@ export default function Asset() {
               layout="responsive"
               width="1000px"
               height="1000px"
+     alt="Image"
             />
           </ImageEl>
           <ChainLink>
