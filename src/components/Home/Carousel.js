@@ -165,6 +165,7 @@ export default function Carousel() {
                       src="/images/avatar/ugonzo.jpg"
                       height="120"
                       width="120"
+ alt="Image"
                     />
                   </Avatar>
                   <Name>Ugonzo Art</Name>
